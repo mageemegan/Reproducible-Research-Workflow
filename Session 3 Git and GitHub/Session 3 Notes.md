@@ -99,7 +99,7 @@ Elise | Desjardins | Physics
 Jaila | Shamal | Geography
 Ritchie | Lee | Chemistry
 David | Ma | Chemistry
-Megeen | Magee | Geography
+Megeen | Magee | Chemistry
 John | Meral | Geography
 Sear | Sean | Engineering
 Rajveer | Ubhis | Geography
